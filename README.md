@@ -36,7 +36,7 @@ According to research, an average of **243 hours (10 days, 3 hours)** is lost du
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/adaptive-traffic-signal.git
+git clone https://github.com/Resh844/Adaptive_Traffic_Signal_System.git
 ```
 
 ## 📊 Future Enhancements

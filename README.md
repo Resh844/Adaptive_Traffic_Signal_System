@@ -22,8 +22,6 @@ According to research, an average of **243 hours (10 days, 3 hours)** is lost du
 - **AI/ML**: OpenCV, TensorFlow, YOLOv3
 - **Dataset**: MS COCO + Custom dataset
 - **Backend**: Flask/FastAPI
-- **Database**: MySQL/PostgreSQL (Optional)
-- **Frontend**: React.js (for Dashboard) (Optional)
 
 ## 📍 Data Collection & Model Training
 - The input consists of **surveillance camera footage** from intersections at **Town Hall Circle, Tumkur**.
